@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://eatriseat.github.io/sitemap.xml
